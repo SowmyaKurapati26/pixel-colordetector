@@ -31,3 +31,6 @@ Pixel-Color-Detector/
 1. Clone or download the project:
 2. Open `index.html` in your browser.
   ✅ No backend required — runs fully in the browser!
+
+##  🌐 Live Demo
+https://soft-kringle-9fa9e2.netlify.app/
