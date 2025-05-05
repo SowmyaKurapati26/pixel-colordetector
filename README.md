@@ -33,4 +33,4 @@ Pixel-Color-Detector/
   ✅ No backend required — runs fully in the browser!
 
 ##  🌐 Live Demo
-https://soft-kringle-9fa9e2.netlify.app/
+https://bright-longma-4860b5.netlify.app/
